@@ -1,0 +1,47 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.page {
+    width: 100%;
+    height: 100px;
+    background:  #0084ce;
+    margin: 5px 0 0 25px;   
+    
+}
+.menu ul {
+    list-style: none;    
+}
+.menu-link {
+    color: white;
+}
+.menu li {
+    float: left;
+    padding: 35px 45px;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Franklin Gothic"; 
+}
+.clear {
+    clear: both;
+}
+.leftimg {
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin: 10px 40px 0 0;
+}
+p {
+    font-size: 24px;
+    color: #000000;
+    font-weight: 500;
+    font-family: "Franklin Gothic";
+    margin: 20px 50px 0 0;
+}
+.rightimg {
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin: 10px 0 0px 40px;
+}
